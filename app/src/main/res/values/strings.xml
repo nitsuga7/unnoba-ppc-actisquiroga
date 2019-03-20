@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pacientes</string>
+    <string name="title_activity_login">Iniciar Sesión</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_usr">Usuario</string>
+    <string name="prompt_pass">Contraseña</string>
+    <string name="action_ingresar">Ingresar</string>
+    <string name="titulo_sesion">Iniciar Sesión</string>
+    <string name="cerrar_sesion">Cerrar Sesión</string>
+    <string name="titulo_bar">Lista de Pacientes</string>
+</resources>
